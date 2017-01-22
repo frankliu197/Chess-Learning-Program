@@ -1,0 +1,12 @@
+This is a program designed to improve peoples' Chess Skills.
+
+Always Create these folders before running the program:
+ChessFile
+ChessFile/Saved
+ChessFile/Game
+ChessFile/Opening
+ChessFile/Tactic
+
+And the same for SpecificFile but with ChessFile replaced with SpecificFile
+
+
